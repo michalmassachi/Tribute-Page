@@ -1,0 +1,58 @@
+ /* Styling the body element
+        like body color and margin */
+
+
+         /*{color:#e9e9da}*/
+        body {
+            background-color: #e9e9da;
+            margin: 10%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px rgb(236, 236, 200);
+            font-size: 8vh;
+            color: rgb(234, 190, 80);
+            text-shadow: 5px 5px 10px rgb(213, 235, 147);
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 15px;
+            font-family: g;
+            color: rgb(74, 71, 71);
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgba(227, 239, 177, 0.877);
+            box-shadow: 20px 20px 20px #cdcbaa;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-dogs {
+            font-size: 30px;
+            color: rgb(52, 53, 47);
+            text-align: center;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: rgba(61, 59, 59, 0.76);
+        }
